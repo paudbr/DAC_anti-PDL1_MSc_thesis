@@ -37,7 +37,7 @@ This framework is based on:
 
 - In configs folder, a dockerfile for liana can be found. See 2. Seting up environments
 
-## Istalation
+## Instalation
 
 ### 1. Clone repository
 ```

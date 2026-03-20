@@ -21,6 +21,7 @@ This framework is based on:
 8. **7_Liana** – Modeling of cell-cell communication using Liana.
 9. **8_CellChat** – Cell-cell communication network analysis using CellChat.
 10. **9_cell_cycle** – Determination of cell cycle phases and their link to tumor phenotype.
+---
 **SIMIC** - computational framework designed to infer regulatory dynamics of genes from scRNA-Seq data
 ---
 
